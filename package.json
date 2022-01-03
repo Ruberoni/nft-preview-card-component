@@ -1,0 +1,23 @@
+{
+  "name": "nft-preview-card-component",
+  "version": "1.0.0",
+  "description": "This is a solution to the Frontend Mentor challenges help you improve your coding skills by building realistic projects.",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ruberoni/nft-preview-card-component.git"
+  },
+  "author": "Ruben Paredes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ruberoni/nft-preview-card-component/issues"
+  },
+  "homepage": "https://github.com/Ruberoni/nft-preview-card-component#readme",
+  "devDependencies": {
+    "prettier": "^2.5.1",
+    "tailwindcss": "^3.0.8"
+  }
+}
