@@ -1,3 +1,4 @@
+> Checkout the live solution 👉[here](https://ruberoni.github.io/nft-preview-card-component/) 👈
 # Frontend Mentor - NFT preview card component solution
 
 This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
@@ -12,12 +13,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](design\screenshots\mobile-design.png)
-
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+<img src="design/screenshots/mobile-design.PNG"/> 
 
 ### Useful resources
 - [W3Schools: How TO - Image Hover Overlay](https://www.w3schools.com/howto/howto_css_image_overlay.asp)
