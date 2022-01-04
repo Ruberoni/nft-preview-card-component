@@ -12,25 +12,26 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](design\screenshots\mobile-design.png)
 
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 
+### Useful resources
+- [W3Schools: How TO - Image Hover Overlay](https://www.w3schools.com/howto/howto_css_image_overlay.asp)
+
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
 - Mobile-first workflow
 - [Tailwindcss](https://tailwindcss.com/) - Styles library
 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Ruberoni](https://www.frontendmentor.io/profile/Ruberoni)
+- Email - [ruben.pardes25@gmail.com](mailto:ruben.pardes25@gmail.com)
+- Discord - Ruberoni#8428
